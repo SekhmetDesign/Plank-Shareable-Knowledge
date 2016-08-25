@@ -178,131 +178,53 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 #### GUI
 
-* [Gitbar](https://github.com/Shikkic/gitbar) - Open Source，display Github contribution statistics on your menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitHub Desktop](https://desktop.github.com/) - Github official GUI. ![Freeware][Freeware Icon]
-* [Oh My Star](http://www.ohmystarapp.com/) - The best way to organize your Github Stars.
-* [GitUp](http://gitup.co/) - A simple and powerful git client. ![star 3][star3 Icon] [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/git-up/GitUp)
-* [Hub](https://hub.github.com/) -Hub is a command-line wrapper for git that makes you better at GitHub. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/github/hub)
 * [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
-* [Versions](http://www.versionsapp.com/) - Mac Subversion Client (SVN).
-* [Cornerstone](http://www.zennaware.com/cornerstone/) - Best Mac SVN Client.
 
 
 #### Version control system
 
 * [GitLab](http://gitlab.com/) open source git repo management software. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Coding.net](https://coding.net) - A one-stop cloud platform for developers, free for repository hosting, project collaboration, code quality assurance and Page service. ![Freeware][Freeware Icon]
-* [phabricator](https://phabricator.com) Open software engineering platform and fun adventure game. ![Freeware][Freeware Icon]
-* [Gogs](https://gogs.io) - Gogs (Go Git Service) is a painless self-hosted Git service. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gogits/gogs)
-* [Gerrit](https://www.gerritcodereview.com) Code Review for Git. ![Freeware][Freeware Icon]
 * [Github](https://github.com) Lot code hosting, project management, presentation deployment, look, you can visit to making now。![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 ## DataBase
 
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/sequelpro/sequelpro)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - MySQL Official GUI.
-* [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
-* [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD Application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
-* [Base 2](http://menial.co.uk/base/) - Base is an application for creating, designing, editing and browsing SQLite 3 database files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]]()
-* [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
-* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware][Freeware Icon]
-* [Robomongo](https://robomongo.org/) - Native and cross-platform MongoDB management tool (Admin UI). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/paralect/robomongo)
-* [MongoBooster](http://www.mongobooster.com/) - Shell-centric and cross-platform GUI tool for MongoDB. It provides update-in-place, fluent query builder, ES6 syntax support and True IntelliSense experience. ![Freeware][Freeware Icon]
-* [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - The simple MongoDB GUI.
-* [MongoChef](http://3t.io/mongochef) - The GUI for MongoDB. ![Freeware][Freeware Icon]
-* [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin) - This is a powerful Chrome app to manage your MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [JackDB](https://www.jackdb.com/) - Direct SQL access to all your data, no matter where it lives. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
-* [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 
 ## Design and Product
 
 #### Design tools
 
-* [Acorn](https://secure.flyingmeat.com/acorn/) - A great Mac OS X picture and photo editor, built for humans.
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
-* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
-* [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Sketch](http://www.sketchapp.com/) - Professional Digital Design for Mac. ![star 5][star5 Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
     * [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
-* [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. ![tuijian][tuijian Icon]
-* [Monodraw](http://monodraw.helftone.com) - Powerful ASCII art editor designed for the Mac. ![Freeware][Freeware Icon]
 * [SketchBook](https://www.sketchbook.com/?locale=en-US) - Drawing software for concept design, comic art, and digital sketching. ![Freeware][Freeware Icon]
-* [Tayasui Sketches](http://www.tayasui.com/sketches/) - Professional drawing software.
-* [Nik Collection](https://www.google.com/intl/en/nikcollection/) - Google Nik collection. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [Paintbrush](http://paintbrush.sourceforge.net/) - The Bitmap image editor. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/paintbrush/files/) ![Freeware][Freeware Icon]
-* [Krita](https://krita.org/en/) - Open Source software for Concept Artists, Digital Painters, and Illustrators. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](http://download.kde.org/stable/krita/3.0/krita-3.0.tgz.mirrorlist) ![Freeware][Freeware Icon]
 
 #### Prototype workflow
 
-* [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps. ![tuijian][tuijian Icon]
-* [MockFlow](https://www.mockflow.com) - Online prototyping suite for web design and usability testing.
 * [Axure RP 8](http://www.axure.com) - Prototypes, Specifications, and Diagrams in One Tool. ![hot][hot Icon]
-* [Mockplus](http://www.mockplus.com) - Prototype faster, smarter and easier.
-* [OmniGraffle](https://www.omnigroup.com/omnigraffle) - OmniGraffle - diagramming and graphic design for Mac, iPhone, and iPad.
-* [XMind](http://www.xmind.net) - The Most Popular Mind Mapping Tool on The Planet. ![hot][hot Icon] ![must-have][bibei Icon]
-* [Scapple](http://www.literatureandlatte.com/scapple.php) - A practical mind mapping software. ![hot][hot Icon]
-* [Framer](http://framerjs.com/) - Tools for interactive prototyping. ![star 5][star5 Icon]![hot][hot Icon]
 
 #### Other tools
 
-* [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open source tool to compress image. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
-* [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
-* [ImageAlpha](https://pngmini.com/) - Compress image with PNG format and remove the useless transparent. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pornel/ImageAlpha)
-* [ImageOptim](https://imageoptim.com/mac) - Compress image and remove EXIF information. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ImageOptim/ImageOptim)
-* [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors. ![tuijian][tuijian Icon]
-* [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, support Retina.
-* [ColorSchemer](http://www.colorschemer.com/) - A professional color matching application for your Mac.
 * [IconKit](http://appersian.net/) - App icon generator.
 * [Snagit](https://www.techsmith.com/snagit.html) - All-in-one screenshot app. Supports scrolling capture, panoramic capture, even video and audio capture. ![tuijian][tuijian Icon]
-* [LICEcap](http://www.cockos.com/licecap/) - Record the screen and export to GIF. You can change the recording area anytime during recording. [![star 4][star4 Icon] ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/justinfrankel/licecap)
 * [GIPHY Capture](http://giphy.com/apps#giphycapture) - Capture and share screen with GIF. ![Freeware][Freeware Icon]
-* [Skitch](https://evernote.com/skitch/?noredirect) - Screen shot with a powerful annotation capabilities. ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [截图(Jietu)](http://jietu.qq.com/) - Screenshot with a powerful annotation capabilities, by Tencent. (**Missing English UI and Docs**) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Snip](http://snip.qq.com/) - Efficient tool for screenshot. Supports scrolling windows capture. By Tencent. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [iPic](http://toolinbox.net/iPic/) - Upload image and share link. (**Missing English UI and Docs**. Alternative of imgur) ![Freeware][Freeware Icon]
-* [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive. ![star 4][star4 Icon] ![tuijian][tuijian Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - clean and beautiful color theme. Work well with iTerm, JetBrains products, Vim etc. ![tuijian][tuijian Icon]
 
-
 ## Virtual Machines
 
-* [Parallels](http://www.parallels.com/) - Powerful and easy-to-use VM. No free upgrade for each new Mac OS. ![hot][hot Icon]
 * [Virtual Box](http://www.virtualbox.org) - A powerful x86 and AMD64/Intel64 virtualization product. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
 * [VMWare Fusion](http://www.vmware.com/) - A powerful commercial VM developed by VMware.
-* [Veertu](https://veertu.com) - The lightest VM on Mac. Responsive, Sandboxed & Native way to run VM on your Mac. ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-
 
 ## Communication
 
 *Team communication and collaboration tools recommendation*
 
-* [Franz](http://meetfranz.com/) - A [Electron](http://electron.atom.io/) based multi protocol wrapper for web-based chat client. One application, 23 messenger services. ![hot][hot Icon] ![Freeware][Freeware Icon]
-* [QQ](http://im.qq.com/macqq/index.shtml) - Official QQ app for Mac. (**Missing English Docs**) ![Freeware][Freeware Icon]
-* [WeChat](http://weixin.qq.com/cgi-bin/readtemplate?t=mac&lang=en) - Official WeChat app for Mac. ![Freeware][Freeware Icon]
-* [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - An open source WeChat client, build with [Electron](https://github.com/electron/electron). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/geeeeeeeeek/electronic-wechat)
-* [Skype](https://www.skype.com/) - A cross-platform application that provides video chat and voice call services. Users can exchange images, text, video and any other digital documents.
-* [WeiboX](http://weiboformac.sinaapp.com/) - A third-party Weibo client for Mac OS. (**Missing English UI and Docs**) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [御飯](https://imach.me/gohanapp/) - A third-party FanFou client for Mac OS. (**Missing English UI and Docs**) ![star 3][star3 Icon] ![Freeware][Freeware Icon]
-* [ChitChat](https://github.com/stonesam92/ChitChat) - Unofficial WhatsApp. [![Open-Source Software][OSS Icon]](https://github.com/stonesam92/ChitChat)
 * [Telegram](https://desktop.telegram.org) - A new era of messaging.
-* [Messenger For Mac](https://fbmacmessenger.rsms.me/) - A third-party Facebook messenger for Mac. [![Open-Source Software][OSS Icon]](https://github.com/rsms/fb-mac-messenger)
 * [Adium](https://adium.im/) - A free instant messaging application for Mac OS X, connecting to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
-* [Textual](https://www.codeux.com/textual) - Textual is the world's most popular application for interacting with Internet Relay Chat (IRC) chatrooms on OS X.
-* [Gitter](https://gitter.im) - An instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
-* [简聊](https://jianliao.com/site?lang=en) - A communication tool for enterprise. You can build your own service with its open source version. (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jianliaoim/talk-os)
-* [钉钉](http://www.dingtalk.com/index-b.html#download_block) - A free office communication platform for enterprise. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [LimeChat](http://limechat.net/mac/) - An open source IRC client for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/psychs/limechat)
 * [Slack](https://slack.com/) - Awesome tool for team collaboration and communication. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [零信](https://pubu.im/apps/osx) - Work anywhere at anytime. Cross platform. (**Missing English UI and Docs**)
-* [今目标](http://www.jingoal.com/client/mac/mac.htm) - An internet work platform for small-medium sized enterprises. (**Missing English UI and Docs**)
-* [BearyChat](https://bearychat.com/) - Team collaboration and communication tool for internet team. (**Missing English UI and Docs**)
-* [Bitpost](https://voluntary.net/bitpost/) - A private decentralized messaging system. Instead of connecting to centralized servers(like Facebook, Gmail etc) or federated servers(like email, IRC, Jabber), it uses P2P protocol to send encrypted messages to another person or to many subscribers. [![Open-Source Software][OSS Icon]](https://github.com/Voluntarynet/Bitpost)
-* [Teambition](https://www.teambition.com) - A team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
-* [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
 * Email
     * [Airmail](http://airmailapp.com) - A fast email client. For both Mac OS and iOS.
     * [Foxmail](http://www.foxmail.com/mac/en) - A fast email client. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
@@ -312,31 +234,10 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Polymail](https://polymail.io/) - Simple, beautiful and powerful email client. ![Freeware][Freeware Icon]
     * [CloudMagic Email](https://cloudmagic.com/) - An excellent email client with concise interface.
 
-## Data Recovery
-
-* [DiskWarrior](http://www.alsoft.com/DiskWarrior/) -The world’s most advanced repair and recovery tool for Mac.
-* [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - A comprehensive and professional data recovery tool for most cases.
-* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - A powerful recovery tool for Mac file recovery, Time machine recovery, Encrypted Disk recovery and much more.
-* [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - A powerful tool which recovers data on disks, even if their partitions are formatted, damaged or deleted.
-
 ## Audio and Video
 
-* [VOX Player](https://coppertino.com/vox/mac) - \#1 high-definition audio player for Mac and iPhone. Music just sounds better! ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Radiant Player](http://radiant-player.github.io/radiant-player-mac/) - Third party Google Play Music client. [![Open-Source Software][OSS Icon]](https://github.com/radiant-player/radiant-player-mac) ![Freeware][Freeware Icon]
-* [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Audacity](http://www.audacityteam.org/) - A free, open source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
-* [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
-* [Stringed 2](http://stringed.buenosapps.com/) - The perfect tool for every musician.
-* [Mixxx](http://mixxx.org/) - The most advanced free DJ software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mixxxdj/mixxx)
-* [Cog](http://cogx.org/) - A free open source audio player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://bitbucket.org/mamburu/cog/)
 * [VLC](http://www.videolan.org/index.html) - A free and open source cross-platform multimedia player as well as framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/videolan/vlc)
-* [XLD](http://tmkk.undo.jp/xld/index_e.html) - A tool to decode/convert/play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://code.google.com/archive/p/xld/source)
-* [HandBrake](https://handbrake.fr/) - A tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-* [MPlayerX](http://mplayerx.org) - A simple, powerful, beautiful media player. [![star 3][star3 Icon] ![Open-Source Software][OSS Icon]](https://github.com/niltsh/MPlayerX)
-* [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
-* [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
-* [ArcTime](http://www.arctime.org/) - A simple, powerful, efficient subtitle creation software. (**Missing English UI and Docs**) ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Perian](http://perian.org/#download) - (**Retired, no longer supported**) ~~Let QuickTime play all the common formats of free plug-ins~~. ![star 5][star5 Icon] [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/perian) ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
 
 ## Reading and Writing
 
@@ -364,102 +265,31 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![tuijian][tuijian Icon]
     * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
     * [OneNote](https://www.onenote.com/) - Note-taking app by MicroSoft. ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![必备][bibei Icon]
-    * [有道云笔记](http://note.youdao.com/) - A note-taking app. It features multi-level notebook structure，Markdown syntax and iWork/Office preview. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [为知笔记](http://www.wiz.cn/download.html) - A note-taking app. It features multi-level notebook structure, multi tags, Markdown syntax and unlimited cloud storage space. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-    * [Leanote](http://app.leanote.com) - A note-taking app. Features Markdown syntax and blog export. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
-
-## Ebooks
-
-* [Calibre](http://calibre-ebook.com/) - A free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
-* [Sigil](https://sigil-ebook.com/) - A multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
 
 ## FTP Clients
 
-* [Transmit](https://panic.com/transmit/) - A highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
-* [Flow](http://fivedetails.com/flow/) - An award-winning, beautiful, fast, and reliable FTP + SFTP client.
-* [Yummy FTP](http://www.yummysoftware.com) - Pro-level, fast, reliable FTP/S + SFTP + WebDAV/S file transfer app.
 * [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
 
-## Frameworks for Hybrid App
-
-* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/nwjs/nw.js)
-* [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/electron/electron)
-* [React Native Desktop](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]](https://github.com/ptmt/react-native-desktop)
-* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native。[![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon] ![tuijian][tuijian Icon]
-* [AppJS](http://appjs.com/) - Build desktop application for Linux, Windows and Mac using HTML, CSS and JavaScript. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
-* [HEX](http://hex.youdao.com/zh-cn/index.html) - Build cross-platform desktop application with HTML and JavaScript. Made by YouDao. (**Broken official website**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/netease-youdao/hex)
-* [AlloyDesktop](https://github.com/AlloyTeam/webtop) - Build cross-platform desktop application with HTML and JavaScript. Made by Tencent (Not very recommended). (**Missing English Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/AlloyTeam/webtop)
-
-
-## Download Tools
-
-* [Transmission](https://www.transmissionbt.com/) - A Fast, Easy, Free BitTorrent Client. [![Open-Source Software][OSS Icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][Freeware Icon]
-* [aria2](https://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
-* [JDownloader](http://jdownloader.org/) - A free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. ![Freeware][Freeware Icon]
-* [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the web. [![Open-Source Software][OSS Icon]](https://github.com/soimort/you-get) ![Freeware][Freeware Icon]
-* [Free Download Manager](http://www.freedownloadmanager.org/) - A powerful modern download accelerator and organizer for Windows and Mac. (FREE) ![Freeware][Freeware Icon]
 
 ## Online Storage
 
 *Recommend some online storage with Mac client.*
 
 * [Dropbox](https://www.dropbox.com/) - A file hosting serviced that offers cloud storage, file synchronization, personal cloud and collaborative edit. ![Freeware][Freeware Icon] ![hot][hot icon] ![tuijian][tuijian Icon]
-* [Baidu cloud](http://pan.baidu.com/download?from=header#pan) - Baidu cloud official client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Tecent cloud](https://www.weiyun.com/) - Tencent cloud client. (**Require Tencent Account, Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Jianguo cloud](https://www.jianguoyun.com/s/downloads) - Jianguo cloud client. (**Not recommended**) ![Freeware][Freeware Icon]
-* [115](http://pc.115.com/) - 115 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [360](http://c49.yunpan.360.cn/) - 360 cloud client. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
 * [ownCloud](https://owncloud.org) Cloud storage.
 * [Mega](https://mega.nz) - Free cloud service, offers 50GB free storage. ![Freeware][Freeware Icon]
-
-## Input Method
-
-* [QQ Input for Chinese](http://qq.pinyin.cn/) - Produced by Tencent. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Sogou Input for Chinese](http://pinyin.sogou.com/mac/) - Sogou input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Baidu Input for Chinese](https://srf.baidu.com/input/mac.html) - Baidu input. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Qingge Wubi Input](https://qingg.im/index.html) - Wubi input produced for iOS and Mac. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [WBIM](http://www.pawpawsoft.com) - Wubi input method. ![Freeware][Freeware Icon]
-* [Rocket](http://matthewpalmer.net/rocket/) - Emoji input method. ![Freeware][Freeware Icon]
-* [Emoticon Input](https://itunes.apple.com/cn/app/yan-wen-zi/id914708191?mt=12) - Emoticons icons or characters input method. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [RIME](http://rime.im/) - Rime input method. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]](https://github.com/rime)
 
 ## Web Browsers
 
 *Browsers on Mac OS*
 
-* [Safari](http://www.apple.com/cn/safari/) - Build-in browser of Mac OS. ![Freeware][Freeware Icon]
-* [Chrome](http://www.google.cn/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
-* [Firefox](http://www.firefox.com.cn/) - Firefox. ![Freeware][Freeware Icon]
-* [Opera](http://www.opera.com/zh-cn) - Opera. ![Freeware][Freeware Icon]
-* [QQ Browser](http://browser.qq.com/mac/en/index.html) - QQ browser, produced by Tencent. ![Freeware][Freeware Icon]
-* [傲游云浏览器](http://www.maxthon.cn/mac/) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
+* [Safari](http://www.apple.com/safari/) - Build-in browser of Mac OS. ![Freeware][Freeware Icon]
+* [Chrome](http://www.google.com/chrome/browser/) - ![star 4][star4 Icon] Chrome, produced by Google ![Freeware][Freeware Icon]
+* [Firefox](http://www.firefox.com/) - Firefox. ![Freeware][Freeware Icon]
+* [Opera](http://www.opera.com) - Opera. ![Freeware][Freeware Icon]
 * [Vivaldi](https://vivaldi.com/?lang=en_US) - Vivaldi, new browser from Opera's developers. ![Freeware][Freeware Icon]
 
-## Translation Tools
-*(Or you could just use Mac OS built-in dictionary)*
-
-* [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages. ![Freeware][Freeware Icon]
-* [YouDao Translate](http://cidian.youdao.com/multi.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [海词词典](http://cidian.dict.cn/mac.html) - (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [Eudic](http://www.eudic.net/eudic/mac_dictionary.aspx) - (**Missing English UI and Docs**)
-
-## Proxy and VPN Tools
-
-* [ShadowsocksX](http://shadowsocks.org/) - A secure socks5 proxy, designed to protect your internet traffic. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]](https://github.com/shadowsocks/shadowsocks)
-* [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG) - Next generation of ShadowsocksX. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qiuyuzhou/ShadowsocksX-NG)
-* [Lantern](https://getlantern.org) - Lantern is a free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon] ![hot][hot Icon]](https://github.com/getlantern/lantern)
-* [鱼摆摆](https://ybb1024.com/) - An application for the access to open internet.
-* [Tunnelblick](https://tunnelblick.net/downloads.html) - A free, open source graphic user interface for OpenVPN on OS X. ![Freeware][Freeware Icon]
-* [GoAgentX](https://github.com/OldFrank/GoAgentX) - An application for the access to open internet. (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
-* [Surge](http://surge.run/manual/) - Surge is a web developer tool and proxy utility for iOS 9. ![Freeware][Freeware Icon]
-* [srocket](http://50r.cn/ifn76I) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [LoCoVPN](https://www.locovpn.co/mannul/) - An application for the access to open internet. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [二师兄VPN](http://www.2-vpn4.cc/home.action) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [GTX加速器](http://www.jsqgtx.cc/DownLoad) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [GreenVPN](http://www.evergreenvpn.com/) - A powerful and fun tools that helps you to solve any network issues. (Mainly used for the access to open internet) ![Freeware][Freeware Icon]
-* [风驰VPN](http://fengchinet2.com/) - An application that connects you to the VPN. (**Missing English UI and Docs**) ![Freeware][Freeware Icon]
-* [开眼](https://chrome.google.com/webstore/detail/%E5%BC%80%E7%9C%BC/kpamljbkjaaljbcgobdealnpalcgicna?hl=zh-CN) - A Chrome plugin for the access to open internet. ![Freeware][Freeware Icon]
 
 ## Utilities
 ### General Tools
@@ -470,13 +300,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [BitBar](https://getbitbar.com/) - An app lets you put the output from any script or program right in your Mac OS X menu bar. Good commutity. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - A clipboard manager for Mac OS X. ![Freeware][Freeware Icon]
 
-### GTD (Getting Things Done)
-* [Todoist](https://todoist.com/mac) - A cross-platform todo list app. ![Freeware][Freeware Icon]
-* [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![tuijian][tuijian Icon]
-* [Things](https://culturedcode.com/things/) - A delightful and easy to use task manager. (**Award-winning App**) ![hot][hot Icon]
-* [OmniFocus](https://www.omnigroup.com/omnifocus/) - A nice GTD app, made by OmniGroups. ![hot][hot Icon]
-* [2Do](http://www.2doapp.com/) - A nice todo app.
-* [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
 
 ### Productivity
 * [xScope](http://xscopeapp.com/) - A powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
@@ -534,9 +357,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 * [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
 
-## Third Party App Markets
-
-* If you came across some websites offering pirate software or cracks, please post [HERE](https://github.com/jaywcjlove/awesome-mac/issues/17). We love apps, authentic only :)
 
 ### Get Apps
 *Here are some of the major software to download the site, there are a number of OSX Mac software to share the site*
@@ -544,14 +364,6 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * [Homebrew](http://brew.sh/) - If you are familiar with Terminal, feel free to get it here.
 * [MacUpdate Desktop](https://www.macupdate.com/) - Change the way you install and update apps with the all new. ![star 4][star4 Icon]
 * [Homebrew-cask](http://caskroom.io) - Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike. Again, if you are familiar with Terminal.
-
-### Black-List
-*Third party application market APP black list, there is the spread of pirated software and download, refused to start from me, welcome everyone to monitor them And adults.*
-
-* <del>[腾讯电脑管家](http://mac.guanjia.qq.com/)</del> - 电脑管家for Mac 带应用市场。
-* <del>[迅雷Thunder Store](http://mac.xunlei.com/app/)</del> - 迅雷Thunder for Mac 带应用市场。
-* <del>[Mac软件宝箱](http://box.macx.cn/)</del> - Macx推出软件宝箱。
-* <del>[MacHunter](http://www.machunter.net/)</del> - Mac应用市场。
 
 ## Mac App Download Sites
 *Here are some of the major software to download the site, there are a number of OSX Mac software to share the site.*
@@ -565,23 +377,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * [HackStore](http://hack-store.com) it is an amazing free alternative of App Store for side developers and apps for Mac OS which Apple doesnt accept.
-* **Chinese community**
-    * 少数派：[http://sspai.com/tag/Mac](http://sspai.com/tag/Mac)
-    * Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com) ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![tuijian][tuijian Icon] ![hot][hot Icon]
 
-### Pirated software download site blacklist
-*Refuse piracy from me. Software vendors can go to these places rights.*
-
-* 玩转苹果：<del>`http://www.ifunmac.com`</del>
-* Mac软件下载站：<del>`http://www.pshezi.com`</del>
-* MacPeers：<del>`http://www.macpeers.com`</del>
-* Mac志：<del>`http://www.isofts.org`</del>
-* Mac软件分享：<del>`http://www.waitsun.com`</del>
-* AppKed：<del>`http://www.macbed.com`</del>
-* 苹果软件园：<del>`http://www.maczapp.com`</del>
-* Mac精品软件：<del>`http://xclient.info/`</del>
-* Macx：<del>`http://www.macx.cn/`</del>
-* 腾牛网：<del>`http://www.qqtn.com/mac/r_17_1.html`</del>
 
 **[⬆ Top](#contents)**
 
