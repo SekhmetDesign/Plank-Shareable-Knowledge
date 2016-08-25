@@ -1,15 +1,10 @@
-# Awesome Mac
+# Plank Shareable Knowledge
+## based on : Awesome Mac
+[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md)
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.md) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md)
-
-
- This repo is a collection of **AWESOME** Mac applications and tools for developers and designers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/jaywcjlove/awesome-mac/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
-
-> Special thanks for the recommendation of  [@GitHubDaily](http://weibo.com/GitHubDaily).
+ This repo is a collection of applications and tools for developers and designers for all OS: Mac, Windows and Linux. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/sekhmetdesign/plank-shareable-knowledge/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
 ### Explanation
-
-[中文](README.md) | [English](README-en.md) 
 
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
@@ -17,8 +12,6 @@
 ![tuijian][tuijian Icon] means **recommended** app;  
 ![must-have][bibei Icon] means **must have** app;  
 ![1 star][red Icon] means highly recommended must have app, the number of stars represents how strong I recommend;  
-
-You may come across some non-English characters. Don't worry, those apps doesn't have an English version yet. So you might not wanna step into it.
 
 ## Contents
 
@@ -126,11 +119,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [GitStatus](https://packagecontrol.io/packages/GitStatus) - Monitoring changes of files and project status in real time。
     * [Gitignore](https://packagecontrol.io/packages/Gitignore) - The Git Gitignore files are generated, commonly used built-in filter file。
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design by Adobe. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets/) ![Freeware][Freeware Icon]
-* [Visual Studio Code](http://code.visualstudio.com) - Microsoft's free & open source editor, TypeScript friendly. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators.
-* [LightTable](https://www.lighttable.com) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
-* [TextMate](https://macromates.com) - A editor brings Apple's approach to operating systems into the world of text editors. ![Freeware][Freeware Icon]
-* [BBEdit](http://www.barebones.com/products/bbedit/) - A doesn’t suck editor.
 * [Vim](http://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient. ![Freeware][Freeware Icon] ![hot][hot Icon]
     * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vim plugin manager. [![Open-Source Software][OSS Icon]](https://github.com/VundleVim/Vundle.vim) ![Freeware][Freeware Icon]
     * [vim-plug](https://github.com/junegunn/vim-plug) - A minimalist Vim plugin manager.[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/junegunn/vim-plug)
@@ -140,60 +129,28 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Spacevim](https://github.com/ctjhoa/spacevim) -  The use of imitation Spacemacs way。
     * [Spf13](http://vim.spf13.com/) - A set of comprehensive configuration items。
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
-* [HBuilder](http://www.dcloud.io/) - An IDE for web development (Support HTML5), built by DCloud. (**Missing English UI and Docs**) ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Tincta](https://mr-fridge.de/software/tincta/index.php) - Tincta is a text editor for Mac OS X. ![Freeware][Freeware Icon]
 
 ### IDE
 
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A powerful Java IDE. (**Free** for Students) ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [Coda2](https://panic.com/coda) - A fast, clean, and powerful text editor.
-* [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon]
 * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. ![hot][hot Icon] ![tuijian][tuijian Icon]
 	* **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info
 	* Some good-to-have Plugins
 		* [NodeJS](https://plugins.jetbrains.com/plugin/6098?pr=webStorm) - `Node.js` integration. You definitely need this, quite a few features requires it.
 		* [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=webStorm) - A JetBrains IDE plugin supporting the EditorConfig standard.
 		* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006?pr=webStorm) - Provides 3 modes, nice and clean.
-* [Deco IDE](https://www.decosoftware.com/) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon]
-* [Xamarin Studio](https://www.xamarin.com/studio) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon]
 
 ## Development Tools
-
-* [WeFlow](https://weflow.io/) - A development tools for front-end workflows based on [tmt-workflow](https://github.com/weixin/tmt-workflow). (**Missing English UI and Docs**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/weixin/WeFlow)
-* [Koala](http://koala-app.com) - A GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [CodeKit](https://incident57.com/codekit/) - Automatically compile, such as Less, Sass, CoffeeScript, TypeScript, Jade, JavaScript. Auto-refresh browsers. And so on.
-* [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - A system preference pane to manage your hosts file. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/specialunderwear/Hosts.prefpane)
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]](https://github.com/2ndalpha/gasmask)
+* [Prepos](https://incident57.com/codekit/) - Automatically compile, such as Less, Sass, CoffeeScript, TypeScript, Jade, JavaScript. Auto-refresh browsers. And so on.
 * [DiffMerge](http://sourcegear.com/diffmerge/) - An application to visually compare and merge files. ![Freeware][Freeware Icon]
-* [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware][Freeware Icon]
-* [Kaleidoscope](http://www.kaleidoscopeapp.com/) - A powerful compare tool for text, images and folders. It works perfectly with git, svn or other version control tools.
-* [Fanvas](https://github.com/TencentOpen/Fanvas) - Convert swf to animation of html canvas. (**Missing English Docs**) [![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/)
-* [EnvPane](https://github.com/hschmidt/EnvPane) - An OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
-* [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![star 5][star5 Icon] ![Freeware][Freeware Icon] ![hot][hot Icon] ![tuijian][tuijian Icon] ![must-have][bibei Icon]
-* [Dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nlf/dlite)
-* [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
-* [StarUML](http://staruml.io) - Powerful UML app.
 * [Vagrant Manager](http://vagrantmanager.com) - Manage local services. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/lanayotech/vagrant-manager/)
-* [zeplin](https://www.zeplin.io/) - Collaboration tool between designers and developers. ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [Go2Shell](http://zipzapmac.com/Go2Shell) - Open terminal from Finder. ![Freeware][Freeware Icon] ![hot][hot Icon]
-* [SecureCRT](https://www.vandyke.com/products/securecrt/) - A terminal emulation which supports SSH, Telnet or other protocols.
-* [Finicky](https://johnste.github.io/finicky/) - An application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/johnste/finicky)
 
 #### Editor of regular expression
 
-* [Patterns](http://krillapps.com/patterns/) - Editor of regular expression.
-* [Reginald](https://github.com/michaeltyson/Reginald) - Regular Expression test application, using [RegexKitLite](http://atastypixel.com/blog/reginald-regex-explorer/). [![Open-Source Software][OSS Icon]](https://github.com/michaeltyson/Reginald) ![Freeware][Freeware Icon]
-* [Regex](http://motionobj.com/regex/?utm_source=RegexApp&utm_medium=app) - It might be the prettiest app for testing regular expressions.
-* [Reggy](http://reggyapp.com/) - Editor of regular expression. [![Open-Source Software][OSS Icon]](https://github.com/samsouder/reggy) ![Freeware][Freeware Icon]
-* [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - Development tool for regular express. ![hot][hot Icon]
+* [RegEx 101](https://regex101.com/) - Editor of regular expression. Perfect for testing, with good documentation.
 
 ## Test Tools
 
-* [Charles](https://www.charlesproxy.com/) - A proxy tool which supports checking all the requests with http or https protocol.
-* [Insomnia 3.0](http://insomnia.rest/) - A beautiful HTTP testing tool. ![Freeware][Freeware Icon]
-* [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Test HTTP/REST endpoints and it's more beautiful than PostMan. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
-* [Paw](https://luckymarmot.com/paw) - An advanced HTTP client.
-* [Cellist](http://cellist.patr0n.us/index.html) - HTTP debugging proxy for OS X.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Find out all the invalid links. ![Freeware][Freeware Icon]
 * [Postman](https://www.getpostman.com) - Postman, help us test API quickly. ![star 4][star4 Icon]![Freeware][Freeware Icon] ![hot][hot Icon] ![must-have][bibei Icon]
 
