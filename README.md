@@ -1,10 +1,10 @@
 # Plank Shareable Knowledge
-## based on : Awesome Mac
+### based on : Awesome Mac
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md)
 
  This repo is a collection of applications and tools for developers and designers for all OS: Mac, Windows and Linux. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/sekhmetdesign/plank-shareable-knowledge/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
 
-### Explanation
+## Explanation
 
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;  
