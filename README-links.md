@@ -27,14 +27,35 @@ Feel free to **Star** and **Fork**, and also ***SHARE*** to your own team and fr
 ## Content
 *pertinent links related to writing for the Web, the digital world, information architecture, etc.*
 
+### SEO
+
+### Information Architecture
+
+
+
 ## Design
 *pertinent links related to web design, design theory, inspiration, etc.*
 
-## Frontend
-*pertinent links related to frontend development*
+## Development
+*pertinent links related to web development*
 
-## Backend
-*pertinent links related to backend development*
+### CSS
+
+### Fonts
+
+### User Interface (UI)
+
+### User Experience (UX)
+
+### Frameworks
+
+### Programming
+#### HTML
+#### JavaScript
+#### PHP/MySQL
+#### 
+#### Regular expressions
+* [RegEx 101](https://regex101.com/) - Editor of regular expression. Perfect for testing, with good documentation.
 
 ## Devops
 *pertinent links related to servers maintenance, servers, optimization, etc.*

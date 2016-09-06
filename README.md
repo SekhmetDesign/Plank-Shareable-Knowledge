@@ -135,7 +135,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 #### Version control system
 * [GitLab](http://gitlab.com/) open source git repo management software. ![Freeware][Freeware Icon]
-* [Github](https://github.com) Lot code hosting, project management, presentation deployment, look, you can visit to making now。![Freeware][Freeware Icon] ![必备][bibei Icon]
+* [Github](https://github.com) Lot code hosting, project management, presentation deployment, look, you can visit to making now。![Freeware][Freeware Icon]
 
 ## DataBase
 * [Sequel Pro](http://www.sequelpro.com/) - MySQL database management for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sequelpro/sequelpro)
@@ -145,12 +145,13 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 #### Design tools
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
+* [Dfont Splitter](https://peter.upfold.org.uk/projects/dfontsplitter) - Convert Macintosh .dfont files into TTF format
+* [IcoMoon App](https://icomoon.io/app/) - App icon generator.
 
 #### Prototype workflow
 * [Axure RP 8](http://www.axure.com) - Prototypes, Specifications, and Diagrams in One Tool. ![hot][hot Icon]
 
 #### Other tools
-* [IcoMoon App](https://icomoon.io/app/) - App icon generator.
 * [Snagit](https://www.techsmith.com/snagit.html) - All-in-one screenshot app. Supports scrolling capture, panoramic capture, even video and audio capture.
 * [GIPHY Capture](http://giphy.com/apps#giphycapture) - Capture and share screen with GIF. ![Freeware][Freeware Icon]
 
@@ -175,8 +176,8 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
     * [Feedly](http://www.feedsapp.com/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
 * Note-taking
     * [Google Keep](http://happenapps.com/#quiver) - The Programmer's Notebook.
-    * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon] ![必备][bibei Icon]
-    * [OneNote](https://www.onenote.com/) - Note-taking app by MicroSoft. ![Freeware][Freeware Icon] ![必备][bibei Icon]
+    * [Evernote](https://evernote.com/?var=1&noredirect) - Famous note-taking app. ![Freeware][Freeware Icon]
+    * [OneNote](https://www.onenote.com/) - Note-taking app by MicroSoft. ![Freeware][Freeware Icon]
 
 ## FTP Clients
 * [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
@@ -204,10 +205,11 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 
 ## Utilities
 ### General Tools
+* [PoEdit](https://poedit.net/) - The best editor for translating apps and sites (that use gettext). Simple. Fast. Easy to use.
 
 ### Productivity
 * **Password Management**
-	* [1password](https://1password.com/) - A cross-platform password management tool. ![必备][bibei Icon]
+	* [1password](https://1password.com/) - A cross-platform password management tool.
 	* [LastPass](https://lastpass.com/) - A password management tool for Mac OS and browser.
 	* [KeePassX](https://www.keepassx.org) - A light-weight and open-source password management app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/keepassx/keepassx)
 
