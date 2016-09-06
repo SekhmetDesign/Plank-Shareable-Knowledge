@@ -8,7 +8,14 @@
 
 - [Editors and IDE](#editors-and-ide)
 
+## Editors and IDE
 
+*applications to edit text, suggest open source editors*
+
+### Editors
+
+#### Editor of regular expression
+* [RegEx 101](https://regex101.com/) - Editor of regular expression. Perfect for testing, with good documentation.
 
 
 **[⬆ Top](#contents)**
