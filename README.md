@@ -182,7 +182,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ## FTP Clients
 * [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
-* [WinSCP](https://filezilla-project.org)
+* [WinSCP](https://winscp.net/eng/index.php) - Free SFTP, SCP and FTP client for Windows
 
 ## Web Development
 ### Web development environment-
@@ -207,6 +207,9 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ### General Tools
 * [PoEdit](https://poedit.net/) - The best editor for translating apps and sites (that use gettext). Simple. Fast. Easy to use.
 
+### Remote Login
+* [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
+
 ### Productivity
 * **Password Management**
 	* [1password](https://1password.com/) - A cross-platform password management tool.
@@ -223,11 +226,7 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ### For Gamers
 * [openEmu](http://openemu.org/) - A great simulator of console. (e.g. Sony PSP, GameBoy, NDS and so on) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 
-### Other
-
-## Remote Login
-* [TeamViewer](https://www.teamviewer.com/en) - A proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![star 4][star4 Icon] ![Freeware][Freeware Icon]
-
+## Other
 
 **[⬆ Top](#contents)**
 
