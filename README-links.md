@@ -1,35 +1,49 @@
-# Plank Shareable Knowledge
-### based on : Awesome Mac
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README-en.md)
+# Plank: Bookmarks
+### repo inspired by : Awesome Mac [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 
- This repo is a collection of our collective bookmarks for all developers and designers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/sekhmetdesign/plank-shareable-knowledge/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
+This repo is a collection of our collective bookmarks for all developers and designers. Any comments, suggestions? [Let us know](https://github.com/sekhmetdesign/plank-shareable-knowledge/issues). Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
+
+Feel free to **Star** and **Fork**, and also ***SHARE*** to your own team and friends.
 
 ## Bookmarks
+- [Business/Marketing](#business-marketing)
+- [Content](#content)
+- [Design](#design)
+- [Frontend](#frontend)
+- [Backend](#backend)
+- [Devops](#devops)
+- [Infosec](#infosec)
+- [Other](#other)
 
-- [Editors and IDE](#editors-and-ide)
 
-## Editors and IDE
-
-*applications to edit text, suggest open source editors*
+## Business/Marketing
+*pertinent links related to any theory, tools and links related to business decisions, digital business development, marketing and branding, etc.*
 
 ### Editors
 
 #### Editor of regular expression
 * [RegEx 101](https://regex101.com/) - Editor of regular expression. Perfect for testing, with good documentation.
 
+## Content
+*pertinent links related to writing for the Web, the digital world, information architecture, etc.*
+
+## Design
+*pertinent links related to web design, design theory, inspiration, etc.*
+
+## Frontend
+*pertinent links related to frontend development*
+
+## Backend
+*pertinent links related to backend development*
+
+## Devops
+*pertinent links related to servers maintenance, servers, optimization, etc.*
+
+## Infosec
+*pertinent links related to information security, hacking, cybersecurities issues, etc.*
+
+## Other
+*any pertinent link not related to any above*
+
 
 **[⬆ Top](#contents)**
-
-
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg
-[tuijian Icon]: https://jaywcjlove.github.io/sb/ico/min-tuijian.svg
-[bibei Icon]: https://jaywcjlove.github.io/sb/ico/min-bibei.svg
-[red Icon]: https://jaywcjlove.github.io/sb/star/red.svg
-[star0 Icon]: https://jaywcjlove.github.io/sb/star/red0.svg
-[star1 Icon]: https://jaywcjlove.github.io/sb/star/red1.svg
-[star2 Icon]: https://jaywcjlove.github.io/sb/star/red2.svg
-[star3 Icon]: https://jaywcjlove.github.io/sb/star/red3.svg
-[star4 Icon]: https://jaywcjlove.github.io/sb/star/red4.svg
-[star5 Icon]: https://jaywcjlove.github.io/sb/star/red5.svg

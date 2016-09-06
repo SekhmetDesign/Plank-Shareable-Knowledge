@@ -1,7 +1,9 @@
-# Plank: Recommended Apps from our dev team
-### repo based on : Awesome Mac [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
+# Plank: Recommended Apps & Tools from our dev team
+### repo inspired by : Awesome Mac [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 
-This repo is a collection of applications and tools for developers and designers for all OS: Mac, Windows and Linux. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/sekhmetdesign/plank-shareable-knowledge/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) format.
+This repo is a collection of applications and tools for developers and designers for all OS: Mac, Windows and Linux. Any comments, suggestions? [Let us know](https://github.com/sekhmetdesign/plank-shareable-knowledge/issues). Please follow the [awesome](https://github.com/sindresorhus/awesome) format.
+
+Feel free to **Star** and **Fork**, and also ***SHARE*** to your own team and friends.
 
 ## Explanation
 ![Open-Source Software][OSS Icon] means **open source**, click to enter **open source** repo;  
@@ -34,11 +36,10 @@ This repo is a collection of applications and tools for developers and designers
 - [Utilities](#utilities)
 - [Remote Login](#remote-login)
 - [Third-Party App Markets](#third-party-app-markets)
-- [Mac App Download Sites](#mac-app-download-sites)
 
 
 ## Editors and IDE
-*applications to edit text, suggest open source editors*
+*applications to edit text & code*
 
 ### Editors
 * [Atom](https://atom.io) - A hackable text editor
@@ -180,7 +181,12 @@ for the 21st Century by GitHub. ![star 4][star4 Icon] [![Open-Source Software][O
 ## FTP Clients
 * [Cyberduck](https://cyberduck.io) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [FileZilla](https://filezilla-project.org) - A free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). ![hot][hot Icon]
-* [WinSCP](https://filezilla-project.org) -
+* [WinSCP](https://filezilla-project.org)
+
+## Web Development
+### Web development environment-
+* [Wamp](http://www.wampserver.com/en/) - perfect for Windows
+* [EasyPHP](http://www.easyphp.org/)
 
 ## Online Storage
 *Recommend some online storage with Mac client.*
